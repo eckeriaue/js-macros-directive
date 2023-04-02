@@ -1,2 +1,6 @@
-'use custom mode';
-macros()
+
+function main() {
+  'use custom mode';
+  macros()
+}
+main()
